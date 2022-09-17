@@ -1,18 +1,19 @@
 <!--<img src="https://i.imgur.com/39CWJK3.jpg" alt="imag1" style="width:26%; margin:50px;" align="left"> -->
 
 # Hii! <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width=40>, I'm [Akashdeep Garg!](https://akashdeepgarg.github.io/Website/hello.html) 
-<a href="https://www.linkedin.com/mwlite/in/akashdeep-garg-506b80120" target="_blank">
-  <img align="left" alt="Akashdeep's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/akashdeep-garg-506b80120/" target="_blank">
+  <img align="left" alt="Akashdeep's LinkdeIN" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/akashdeep_garg/" target="_blank">
-  <img align="left" alt="Akashdeep's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Akashdeep's Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
-<a href="https://mobile.twitter.com/akashde22983691" target="_blank">
-  <img align="left" alt="Akashdeep's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+<a href="https://twitter.com/Akashde22983691/" target="_blank">
+  <img align="left" alt="Akashdeep's Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
 </a>
 <a href="mailto:akashdeepgarg0801@gmail.com" target="_blank">
-  <img align="left" alt="Mail Akashdeep" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+  <img align="left" alt="Mail Akashdeep" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />
 </a>
+
 <a href="https://leetcode.com/akashdeepgarg0801/" target="_blank">
   <img align="left" alt="Akashdeep's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
 </a>
