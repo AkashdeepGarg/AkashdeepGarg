@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/39CWJK3.jpg" alt="imag1" style="width:26%; margin:50px;" align="left">
+<!--<img src="https://i.imgur.com/39CWJK3.jpg" alt="imag1" style="width:26%; margin:50px;" align="left"> -->
 
 # Hii! <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width=40>, I'm [Akashdeep Garg!](https://akashdeepgarg.github.io/Website/hello.html) 
 <a href="https://www.linkedin.com/mwlite/in/akashdeep-garg-506b80120" target="_blank">
